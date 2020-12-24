@@ -1,0 +1,1028 @@
+Getting links from: http://localhost:8081/
+├───OK─── http://localhost:8081/en/
+└───OK─── http://localhost:8081/fr/
+Finished! 6 links found. 4 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/
+├───OK─── http://localhost:8081/en/getting-started/
+├───OK─── http://localhost:8081/en/getting-started/connect.html
+├───OK─── http://localhost:8081/en/getting-started/program-the-robot.html
+├───OK─── http://localhost:8081/en/getting-started/visualize.html
+├───OK─── http://localhost:8081/en/getting-started/example-of-projects.html
+├───OK─── http://localhost:8081/en/assembly-guides/
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/bom.html
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/electronic-assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/motor-configuration.html
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/mechanical-construction.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/warnings.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/bom.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/dynamixel_hardware.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/addressing_dynamixel.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/arms_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/trunk_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/head_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/wiring_arrangement.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/warnings.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/bom.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/dynamixel_hardware.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/addressing_dynamixel.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/arms_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/trunk_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/legs_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/head_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/wiring_arrangement.html
+├───OK─── http://localhost:8081/en/installation/
+├───OK─── http://localhost:8081/en/installation/install-zeroconf.html
+├───OK─── http://localhost:8081/en/installation/burn-an-image-file.html
+├───OK─── http://localhost:8081/en/installation/install-poppy-softwares.html
+├───OK─── http://localhost:8081/en/installation/install-vrep.html
+├───OK─── http://localhost:8081/en/installation/install-drivers.html
+├───OK─── http://localhost:8081/en/installation/install-a-poppy-board.html
+├───OK─── http://localhost:8081/en/programming/
+├───OK─── http://localhost:8081/en/programming/snap.html
+├───OK─── http://localhost:8081/en/programming/notebooks.html
+├───OK─── http://localhost:8081/en/programming/python.html
+├───OK─── http://localhost:8081/en/programming/rest.html
+├───OK─── http://localhost:8081/en/demo-activities/
+├───OK─── http://localhost:8081/en/demo-activities/snap4arduino.html
+├───OK─── http://localhost:8081/en/from-simulation-to-real-robot/
+├───OK─── http://localhost:8081/en/from-simulation-to-real-robot/using-jupyter.html
+├───OK─── http://localhost:8081/en/from-simulation-to-real-robot/using-snap.html
+├───OK─── http://localhost:8081/en/software-libraries/
+├───OK─── http://localhost:8081/en/software-libraries/pypot.html
+├───OK─── http://localhost:8081/en/software-libraries/poppy-creature.html
+├───OK─── http://localhost:8081/en/software-libraries/poppy-ergo-jr.html
+├───OK─── http://localhost:8081/en/software-libraries/poppy-humanoid.html
+├───OK─── http://localhost:8081/en/software-libraries/poppy-torso.html
+├───OK─── http://localhost:8081/en/appendix/faq.html
+├───OK─── http://localhost:8081/en/appendix/contribute.html
+├───OK─── https://www.gitbook.com/
+├───OK─── http://localhost:8081/en/img/logo/poppy.png
+├───OK─── https://www.poppy-project.org/
+├─BROKEN─ https://github.com/poppy-project/poppy-docs/blob/master/CONTRIBUTORS.md (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-docs/blob/master/README.md
+├───OK─── https://creativecommons.org/licenses/by/4.0/
+├─BROKEN─ https://docs.poppy-project.org/ (HTTP_404)
+Finished! 99 links found. 37 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/fr/
+├───OK─── http://localhost:8081/fr/getting-started/
+├───OK─── http://localhost:8081/fr/getting-started/connect.html
+├───OK─── http://localhost:8081/fr/getting-started/program-the-robot.html
+├───OK─── http://localhost:8081/fr/getting-started/visualize.html
+├───OK─── http://localhost:8081/fr/getting-started/example-of-projects.html
+├───OK─── http://localhost:8081/fr/assembly-guides/
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/bom.html
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/electronic-assembly.html
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/motor-configuration.html
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/mechanical-construction.html
+├───OK─── http://localhost:8081/fr/assembly-guides/poppy-humanoid/
+├───OK─── http://localhost:8081/fr/assembly-guides/poppy-torso/
+├───OK─── http://localhost:8081/fr/installation/
+├───OK─── http://localhost:8081/fr/installation/install-zeroconf.html
+├───OK─── http://localhost:8081/fr/installation/burn-an-image-file.html
+├───OK─── http://localhost:8081/fr/installation/install-poppy-softwares.html
+├───OK─── http://localhost:8081/fr/installation/install-vrep.html
+├───OK─── http://localhost:8081/fr/installation/install-drivers.html
+├───OK─── http://localhost:8081/fr/installation/install-a-poppy-board.html
+├───OK─── http://localhost:8081/fr/programming/
+├───OK─── http://localhost:8081/fr/programming/snap.html
+├───OK─── http://localhost:8081/fr/programming/notebooks.html
+├───OK─── http://localhost:8081/fr/programming/python.html
+├───OK─── http://localhost:8081/fr/programming/rest.html
+├───OK─── http://localhost:8081/fr/demo-activities/
+├───OK─── http://localhost:8081/fr/demo-activities/snap4arduino.html
+├───OK─── http://localhost:8081/fr/from-simulation-to-real-robot/
+├───OK─── http://localhost:8081/fr/from-simulation-to-real-robot/using-jupyter.html
+├───OK─── http://localhost:8081/fr/from-simulation-to-real-robot/using-snap.html
+├───OK─── http://localhost:8081/fr/software-libraries/
+├───OK─── http://localhost:8081/fr/software-libraries/pypot.html
+├───OK─── http://localhost:8081/fr/software-libraries/poppy-creature.html
+├───OK─── http://localhost:8081/fr/software-libraries/poppy-ergo-jr.html
+├───OK─── http://localhost:8081/fr/software-libraries/poppy-humanoid.html
+├───OK─── http://localhost:8081/fr/software-libraries/poppy-torso.html
+├───OK─── http://localhost:8081/fr/appendix/faq.html
+├───OK─── http://localhost:8081/fr/appendix/contribute.html
+├───OK─── http://localhost:8081/fr/img/logo/poppy.png
+├─BROKEN─ https://github.com/poppy-project/poppy-docs/blob/master/CONTRIBUTORS.md (HTTP_429)
+├─BROKEN─ https://docs.poppy-project.org/ (HTTP_404)
+Finished! 82 links found. 41 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/getting-started/
+├───OK─── https://github.com/poppy-project
+├─BROKEN─ http://www.inria.fr/equipes/flowers/ (HTTP_404)
+├───OK─── http://creativecommons.org/licenses/by-sa/4.0/
+├───OK─── http://www.gnu.org/licenses/gpl-3.0.en.html
+├───OK─── http://www.coppeliarobotics.com/
+├───OK─── http://snap.berkeley.edu/
+├───OK─── https://www.python.org/
+├───OK─── http://www.generationrobots.com/en/279-poppy-opensource-robotics-platform
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/ErgoJr.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/ergo_tools.gif
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/blob/master/doc/bom.md
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/releases/ (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-humanoid/blob/master/hardware/doc/BOM.md
+├───OK─── https://github.com/poppy-project/poppy-humanoid/releases/tag/hardware_1.0.1/
+├───OK─── http://localhost:8081/en/img/humanoid/vecto.png
+├───OK─── https://github.com/poppy-project/poppy-torso/blob/master/hardware/doc/BOM.md
+├───OK─── https://github.com/poppy-project/robot-support-toolbox/
+├───OK─── http://localhost:8081/en/img/torso/vecto.png
+├───OK─── http://localhost:8081/en/img/poppy-right-arm.jpg
+├─BROKEN─ https://github.com/joelortizsosa (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-6dof-right-arm
+├───OK─── http://localhost:8081/en/img/heol.jpg
+├───OK─── http://localhost:8081/en/img/poppyrate.jpg
+├───OK─── https://twitter.com/poppyratproject
+├───OK─── https://www.facebook.com/Poppyrate/
+Finished! 124 links found. 99 excluded. 3 broken.
+
+Getting links from: http://localhost:8081/en/getting-started/connect.html
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/releases
+├─BROKEN─ https://github.com/poppy-project/poppy-torso/releases (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-humanoid/releases/
+├───OK─── https://en.wikipedia.org/wiki/Zeroconf
+├───OK─── https://support.apple.com/kb/DL999
+├───OK─── http://localhost:8081/en/img/poppy_home.png
+├───OK─── http://localhost:8081/en/img/poppy_monitor.png
+├───OK─── http://localhost:8081/en/img/web-logs.png
+Finished! 109 links found. 101 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/en/getting-started/program-the-robot.html
+├───OK─── http://localhost:8081/en/img/logo/snap.png
+├───OK─── http://localhost:8081/en/img/snap/presentation.png
+├───OK─── http://localhost:8081/en/img/logo/python.png
+├───OK─── http://jupyter.org/
+├───OK─── http://localhost:8081/en/img/logo/jupyter.png
+├───OK─── http://localhost:8081/en/img/notebook-example.png
+├─BROKEN─ https://github.com/joelortizsosa/Connection-Poppy-Matlab (HTTP_429)
+├───OK─── https://github.com/poppy-project/pypot/tree/master/samples/REST/ruby
+├───OK─── https://github.com/poppy-project/poppy-monitor
+├───OK─── https://github.com/poppy-project/pypot/blob/master/REST-APIs.md
+Finished! 108 links found. 98 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/en/getting-started/visualize.html
+├───OK─── http://simu.poppy-project.org/
+├───OK─── http://www.coppeliarobotics.com/downloads.html
+├───OK─── http://localhost:8081/en/img/humanoid/vrep.png
+├───OK─── http://localhost:8081/en/img/torso/explauto-vrep.png
+├───OK─── http://localhost:8081/en/img/torso/explauto-res.png
+├───OK─── http://localhost:8081/en/img/visu/presentation.png
+├───OK─── http://localhost:8081/en/img/visu/python-setup.gif
+Finished! 102 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/getting-started/example-of-projects.html
+├───OK─── http://shonen.info/
+├───OK─── http://player.vimeo.com/video/149653064
+├───OK─── http://localhost:8081/en/img/cherry.png
+├───OK─── https://www.youtube.com/embed/URB1kDDScfM
+├───OK─── https://www.facebook.com/projetcherry/?ref=ts&fref=ts
+├───OK─── https://twitter.com/projetcherry
+├───OK─── https://projetcherry.wordpress.com/
+├─BROKEN─ https://github.com/Cherry-project (HTTP_429)
+├───OK─── https://github.com/Cherry-project/wiki/wiki
+├───OK─── http://s4a.cat/snap/
+├───OK─── https://www.youtube.com/embed/FGKFoUICByE
+├───OK─── https://www.youtube.com/embed/usDAgvcEXJA
+Finished! 106 links found. 94 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/
+Finished! 94 links found. 94 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/ergo-jr/
+Finished! 96 links found. 96 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/ergo-jr/bom.html
+├───OK─── http://fr.rs-online.com/web/p/alimentations-enfichables/7262814/?searchTerm=ECP-15-7.5E
+├─BROKEN─ https://github.com/poppy-project/pixl (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware/STL
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/base.stl
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/horn2horn.stl
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/side2side.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/long_U.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/short_U.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/support_camera.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/lamp.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-fixation.stl (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-fixed_part.stl
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-rotative_part.stl (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/pen-holder.stl
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/pen-screw.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/disk_support.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware/laser_cutting (HTTP_429)
+Finished! 109 links found. 92 excluded. 11 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/ergo-jr/electronic-assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/electronic/rpi-sd.jpg
+├───OK─── http://www.generationrobots.com/en/402420-carte-pixl.html
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/electronic/pixl-step_1-2.jpg
+├───OK─── https://raw.githubusercontent.com/poppy-project/pixl/master/images/rpi_pixl.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/electronic/pixl-step_3-4-5.jpg
+Finished! 99 links found. 94 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/ergo-jr/motor-configuration.html
+├───OK─── http://www.robotis.us/dynamixel-xl-320/
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/xl_320.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/IHM/webpage_not_available.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/motors.png
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/IHM/motor_config_assistant.png
+├───OK─── http://localhost:8081/en/img/jupyter/open-terminal.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/IHM/terminal_for_configuration.PNG
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/IHM/poppy-configure-terminal-output.png
+Finished! 109 links found. 101 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/ergo-jr/mechanical-construction.html
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/ollo_rivet.png
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/ollo_rivets_size.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/ollo-tool.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/align-horn.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/horns_on_left.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_1-2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_3-4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_5-6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_7-8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_9-10.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_11-12-13.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_14-16-17.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_18-19.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/pen_holder.jpg
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-fixation.stl (HTTP_429)
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/grip1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/grip2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_21-22.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/camera.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/assembly/steps/step_24.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/ergo-jr/img/IHM/start_api.png
+├───OK─── http://localhost:8081/en/programming
+Finished! 114 links found. 92 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/
+├───OK─── http://localhost:8081/en/img/humanoid/torso-motors.png
+├───OK─── https://www.youtube.com/watch?v=SUlM_mE3plc&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=1
+├─BROKEN─ https://github.com/poppy-project/Poppy-minimal-head-design/tree/raspberry-pi-integration/ (HTTP_429)
+├───OK─── https://github.com/poppy-project/Poppy-multiarticulated-torso/tree/master/
+├───OK─── https://github.com/poppy-project/poppy-torso
+├─BROKEN─ http://www.generationrobots.com/en/278-le-robot-poppy-Torso (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/GR-logo.png
+Finished! 107 links found. 100 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/warnings.html
+├───OK─── http://localhost:8081/en/img/humanoid/horn.jpg
+├───OK─── http://localhost:8081/en/img/humanoid/axe.jpg
+├───OK─── http://localhost:8081/en/img/humanoid/three_dots.jpg
+├───OK─── http://localhost:8081/en/img/humanoid/usb2ax-2wires.jpg
+Finished! 97 links found. 93 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/bom.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/trunk_BOM.JPG
+├───OK─── https://github.com/poppy-project/Poppy-minimal-head-design/releases
+├─BROKEN─ https://github.com/poppy-project/poppy-torso/releases (HTTP_429)
+├───OK─── https://git-lfs.github.com/
+Finished! 97 links found. 93 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/dynamixel_hardware.html
+├───OK─── http://www.generationrobots.com/en/401858-servomotor-dynamixel-mx-28at.html
+├─BROKEN─ http://localhost:8081/en/assembly-guides/poppy-torso/warning.md (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/zero.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/zero2.JPG
+├───OK─── http://localhost:8081/en/img/humanoid/mx28-zero.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/zero3.JPG
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid/blob/d1e5c8d58eac6358ef26870054e4ccffda9b0bab/software/poppy_humanoid/configuration/poppy_humanoid.json#L75 (HTTP_429)
+├───OK─── http://localhost:8081/en/img/humanoid/remove_horn.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/MX64I1.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/MX64I2.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/MX64I3.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/nuts1.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/nuts2.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/nuts3.JPG
+Finished! 109 links found. 95 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/addressing_dynamixel.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/dynamixel-setup.jpg
+├───OK─── http://www.xevelabs.com/doku.php?id=product:usb2ax:quickstart
+├───OK─── http://support.robotis.com/en/software/roboplus/dynamixel_monitor/quickstart/dynamixel_monitor_connection.htm
+├─BROKEN─ http://localhost:8081/en/installation/poppy-softwares.md (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/poppy-configure-humanoid.png
+├─BROKEN─ http://localhost:8081/en/installation/poppy-softwares.md (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/herborist.png
+Finished! 102 links found. 95 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/arms_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_bom_3.jpg
+├───OK─── https://www.youtube.com/watch?v=cYhGwD6r6NQ&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=2
+├───OK─── https://www.youtube.com/watch?v=BdQcOAwZbMY&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=3
+├───OK─── https://www.youtube.com/watch?v=Oe5v21sTst8&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=4
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_9.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/arm_10.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_bom_2.jpg
+├───OK─── https://www.youtube.com/watch?v=5FsPgEt4cfA&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=5
+├───OK─── https://www.youtube.com/watch?v=MIjfAXShLJ4&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=6
+├───OK─── https://www.youtube.com/watch?v=qCF_8-M5k1o&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=7
+├───OK─── https://www.youtube.com/watch?v=TZb6_hVlmcA&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=8
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_9.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/l_arm_10.jpg
+Finished! 127 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/trunk_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_bom_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_bom_4.jpg
+├───OK─── https://www.youtube.com/watch?v=qwrgV6tKTO8&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=12
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/chest_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_bom_2.jpg
+├───OK─── https://www.youtube.com/watch?v=9oNGV9ggHaE&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=10
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/2mx28_8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/support_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/spine_8.jpg
+├───OK─── https://www.youtube.com/watch?v=LXktU4MTITE&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=11
+├───OK─── https://www.youtube.com/watch?v=uDhLIS3vxM4&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=14
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/torso_1.jpg
+Finished! 127 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/head_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_bom_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_10.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_9.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso/img/head_8.jpg
+├───OK─── https://github.com/poppy-project/Poppy-minimal-head-design/blob/odroid-xu4-integration/doc/head_back_U3.md#u3-version-assembly
+├───OK─── https://github.com/poppy-project/Poppy-minimal-head-design/blob/odroid-xu4-integration/doc/head_back_xu4.md
+Finished! 112 links found. 93 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-torso/wiring_arrangement.html
+├───OK─── http://localhost:8081/en/img/humanoid/torso-wires.png
+Finished! 95 links found. 94 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/
+├───OK─── http://localhost:8081/en/img/humanoid/humanoid-motors.png
+├─BROKEN─ https://github.com/poppy-project/Poppy-minimal-head-design/tree/raspberry-pi-integration/ (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/tree/master/ (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid (HTTP_429)
+├─BROKEN─ http://www.generationrobots.com/en/278-le-robot-poppy-humanoid (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/GR-logo.png
+Finished! 109 links found. 103 excluded. 4 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/warnings.html
+Finished! 97 links found. 97 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/bom.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/legs_BOM.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/trunk_BOM.JPG
+├───OK─── https://github.com/poppy-project/poppy-humanoid/releases
+Finished! 98 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/dynamixel_hardware.html
+├─BROKEN─ http://localhost:8081/en/assembly-guides/poppy-humanoid/warning.md (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/zero.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/zero2.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/zero3.JPG
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid/blob/d1e5c8d58eac6358ef26870054e4ccffda9b0bab/software/poppy_humanoid/configuration/poppy_humanoid.json#L75 (HTTP_429)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/MX64I1.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/MX64I2.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/MX64I3.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/nuts1.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/nuts2.JPG
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/nuts3.JPG
+Finished! 109 links found. 98 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/addressing_dynamixel.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/dynamixel-setup.jpg
+├─BROKEN─ http://localhost:8081/en/installation/poppy-softwares.md (HTTP_404)
+├───OK─── http://localhost:8081/en/img/jupyter/terminal.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/poppy-configure-humanoid.png
+├─BROKEN─ http://localhost:8081/en/installation/poppy-softwares.md (HTTP_404)
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/herborist.png
+Finished! 105 links found. 99 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/arms_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_bom_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_9.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/arm_10.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_9.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/l_arm_10.jpg
+Finished! 127 links found. 102 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/trunk_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_bom_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_bom_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/chest_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/2mx28_8.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/spine_8.jpg
+├───OK─── https://www.youtube.com/watch?v=83lrhXVNHYE&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=9
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/trunk_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/trunk_2.jpg
+├───OK─── https://www.youtube.com/watch?v=LEHLdoBEr4Q&list=PL8wg9_Kkof8wwqgfFu0iCij73C-4gt95x&index=13
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/torso_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/torso_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/torso_1.jpg
+Finished! 131 links found. 98 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/legs_assembly.html
+├─BROKEN─ http://localhost:8081/en/assembly-guides/img/parts_legs.JPG (HTTP_404)
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/pelvis_assembly_instructions.md (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/left_hip_assembly_instructions.md (HTTP_429)
+├───OK─── https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/left_thigh_assembly_instructions.md
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/left_shin_assembly_instructions.md (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/left_leg_assembly_instructions.md (HTTP_429)
+├───OK─── https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/right_hip_assembly_instructions.md
+├───OK─── https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/right_thigh_assembly_instructions.md
+├───OK─── https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/right_shin_assembly_instructions.md
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/subassemblies/right_leg_assembly_instructions.md (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/Poppy-lightweight-biped-legs/blob/master/doc/legs_assembly_instructions.md (HTTP_429)
+├───OK─── http://youtu.be/5i0xVlrJc-8
+Finished! 105 links found. 93 excluded. 7 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/head_assembly.html
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_bom_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_1.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_2.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_3.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_4.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_5.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_6.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_7.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_10.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_9.jpg
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/head_8.jpg
+Finished! 112 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/assembly-guides/poppy-humanoid/wiring_arrangement.html
+├───OK─── http://localhost:8081/en/img/humanoid/humanoid-wires.png
+├───OK─── https://youtu.be/LEHLdoBEr4Q?t=1474
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid/img/wires_1.jpg
+Finished! 97 links found. 94 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/installation/
+Finished! 101 links found. 101 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/installation/install-zeroconf.html
+├───OK─── https://en.wikipedia.org/wiki/Zero-configuration_networking
+├───OK─── https://en.wikipedia.org/wiki/Link-local_address#IPv4
+├───OK─── https://www.fingbox.com/download
+├───OK─── https://play.google.com/store/apps/details?id=com.overlook.android.fing
+├───OK─── https://itunes.apple.com/fr/app/fing-network-scanner/id430921107?mt=8
+├───OK─── https://nmap.org/book/man-host-discovery.html
+Finished! 104 links found. 98 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/installation/burn-an-image-file.html
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/releases/ (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-torso/releases (HTTP_429)
+├───OK─── http://etcher.io/
+├───OK─── http://localhost:8081/en/installation/img/etcher.gif
+Finished! 102 links found. 98 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/installation/install-poppy-softwares.html
+├───OK─── https://www.python.org/downloads/windows
+Finished! 93 links found. 92 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/installation/install-vrep.html
+├───OK─── http://localhost:8081/en/img/vrep/vrep2.png
+├───OK─── http://localhost:8081/en/img/vrep/lucvincent/luc_vincent-056.png
+├───OK─── http://localhost:8081/en/img/vrep/lucvincent/luc_vincent-059.png
+├───OK─── http://localhost:8081/en/img/vrep/lucvincent/luc_vincent-060.png
+├───OK─── http://localhost:8081/en/img/vrep/vrep3_1.png
+├───OK─── http://localhost:8081/en/img/vrep/vrep3_2.png
+├───OK─── http://localhost:8081/en/img/vrep/vrep4.png
+├───OK─── http://localhost:8081/en/img/vrep/lucvincent/luc_vincent-070.jpg
+Finished! 103 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/installation/install-drivers.html
+├───OK─── http://www.xevelabs.com/doku.php?id=product:usb2ax:usb2ax
+├───OK─── http://support.robotis.com/en/product/auxdevice/interface/usb2dxl_manual.htm
+├───OK─── http://www.ftdichip.com/Support/Knowledgebase/index.html?settingacustomdefaultlaten.htm
+Finished! 95 links found. 92 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/installation/install-a-poppy-board.html
+├─BROKEN─ https://www.raspberrypi.org/downloads/raspbian/ (HTTP_404)
+├───OK─── http://www.putty.org/
+├───OK─── http://mobaxterm.mobatek.net/
+├───OK─── https://github.com/poppy-project/raspoppy
+├───OK─── http://odroid.in/ubuntu_14.04lts/ubuntu-14.04.1lts-lubuntu-odroid-xu3-20150212.img.xz
+Finished! 104 links found. 99 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/en/programming/
+├───OK─── https://poppy.discourse.group/t/support-of-ros-available-for-poppy-ergo-jr/4963
+Finished! 96 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/programming/snap.html
+├───OK─── http://snap.berkeley.edu/snapsource/snap.html
+├───OK─── https://github.com/jmoenig/Snap--Build-Your-Own-Blocks/archive/4.0.6.zip
+├───OK─── http://chromium.woolyss.com/
+├───OK─── http://bjc.edc.org/bjc-r/course/bjc4nyc_2015-2016.html
+├───OK─── http://simu.poppy-project.org/snap/#open:https://raw.githubusercontent.com/poppy-project/pypot/master/pypot/server/snap_projects/pypot-snap-blocks.xml
+├───OK─── http://simu.poppy-project.org/poppy-ergo-jr
+├───OK─── http://localhost:8081/en/img/snap/homepage.png
+├───OK─── http://localhost:8081/en/img/snap/snap_save.png
+├───OK─── http://localhost:8081/en/img/snap/snap_cloud_1.png
+├───OK─── http://localhost:8081/en/img/snap/dialog-cloud-signup.png
+├───OK─── http://localhost:8081/en/img/snap/snap_login1.png
+├───OK─── http://localhost:8081/en/img/snap/snap_login2.png
+├───OK─── http://localhost:8081/en/img/snap/logout-menu.png
+├───OK─── http://localhost:8081/en/img/snap/snap_open.png
+├───OK─── http://localhost:8081/en/img/snap/snap_cloud_3.png
+├───OK─── http://localhost:8081/en/img/snap/snap_cloud_4.png
+├───OK─── http://localhost:8081/en/img/snap/snap_cloud_5.png
+├───OK─── http://localhost:8081/en/img/snap/snap_share_full_screen.png
+├───OK─── http://localhost:8081/en/img/snap/snap_xml_save_as.png
+├───OK─── http://localhost:8081/en/img/snap/snap_import.png
+├───OK─── http://localhost:8081/en/img/snap/find_blocks.png
+├───OK─── http://localhost:8081/en/img/snap/find_blocks2.png
+├───OK─── http://localhost:8081/en/img/snap/test_connection.png
+├───OK─── http://localhost:8081/en/img/snap/test_connection3.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/set_host.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/test_connection.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/set_motors_compliant.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/set_position.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/reset.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/set_register_of_motor.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/set_led.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/play_move_reporter.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/sequence.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/concurrent.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/create_and_start_record.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/stop_record_and_save_move.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/stop_move.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/play_concurently_moves.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/play_sequentially_moves.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/start_behaviours.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/play_move_in_reverse.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/play_move_command.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/motors_in_group.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/all_motors.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/get_register.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/get_all_motors_position.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/index_of_motor.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/robot_URL.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/all_recorded_moves.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/get_all_behaviours.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/get_all_motors.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/get_function_of_behaviour.png
+├───OK─── http://localhost:8081/en/img/snap/snap_blocks/card_is_detected.png
+Finished! 156 links found. 103 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/programming/notebooks.html
+├───OK─── http://localhost:8081/en/img/python/notebook-example.png
+├───OK─── https://github.com/poppy-project/poppy-humanoid/blob/master/software/samples/notebooks/Controlling%20a%20Poppy%20humanoid%20in%20V-REP%20using%20pypot.ipynb
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/demo/poppy-ergo_Record%2C%20Save%2C%20and%20Play%20Moves.ipynb
+├─BROKEN─ https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-humanoid_poppy-torso__vrep_installation%20et%20prise%20en%20main/poppy%20simul%C3%A9/Ergo_simulation%20prise%20en%20main.ipynb (HTTP_429)
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-humanoid_poppy-torso__vrep_installation%20et%20prise%20en%20main/poppy%20simul%C3%A9/premier%20pas%20avec%20poppy%20humanoid%20en%20python%20-%2010%20choses%20%C3%A0%20savoir.ipynb
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/demo/poppy-humanoid_Controlling%20in%20V-REP%20using%20pypot.ipynb
+├───OK─── https://github.com/poppy-project/poppy-torso/blob/ff6254355ce18a26f58654f5abc82485a7a22d13/software/doc/tutorial/Poppy%20Torso%20interacting%20with%20objects%20in%20V-REP%20using%20Pypot.ipynb
+├───OK─── https://github.com/flowersteam/explauto/blob/master/notebook/Learning%20the%20IK%20of%20the%20arm%20of%20a%20simulated%20Poppy%20using%20Explauto.ipynb
+├─BROKEN─ https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-humanoid_poppy-torso__vrep_installation%20et%20prise%20en%20main/poppy%20simul%C3%A9/Ergo_simulation%20prise%20en%20main.ipynb (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/community-notebooks/blob/master/demo/poppy-humanoid_Accessing%20pypot%20REST%20API%20through%20HTTP%20requests.ipynb (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid/blob/dd469c262ede0877153afd6e086f65fc85e8b729/software/samples/notebooks/Demo%20Interface.ipynb (HTTP_429)
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-torso__vrep_Prototype%20d%27ininitiation%20%C3%A0%20l%27informatique%20pour%20les%20lyc%C3%A9ens/decouverte/Decouverte%20TP1.ipynb
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-torso__vrep_Prototype%20d%27ininitiation%20%C3%A0%20l%27informatique%20pour%20les%20lyc%C3%A9ens/decouverte/Decouverte%20TP2.ipynb
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-torso__vrep_Prototype%20d%27ininitiation%20%C3%A0%20l%27informatique%20pour%20les%20lyc%C3%A9ens/decouverte/Decouverte%20TP3.ipynb
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-torso__vrep_Prototype%20d%27ininitiation%20%C3%A0%20l%27informatique%20pour%20les%20lyc%C3%A9ens/dialogue/Dialogue%20TP1.ipynb
+├───OK─── https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-torso__vrep_Prototype%20d%27ininitiation%20%C3%A0%20l%27informatique%20pour%20les%20lyc%C3%A9ens/dialogue/Dialogue%20TP2.ipynb
+├───OK─── https://github.com/poppy-project/poppy-docs/issues
+Finished! 112 links found. 95 excluded. 4 broken.
+
+Getting links from: http://localhost:8081/en/programming/python.html
+├───OK─── http://www.gnu.org/licenses/gpl.html
+├───OK─── http://localhost:8081/en/img/python/powered.png
+├─BROKEN─ https://github.com/poppy-project/pypot (HTTP_429)
+├───OK─── https://github.com/poppy-project/poppy-creature
+├───OK─── https://github.com/poppy-project/poppy-ergo-jr
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid (HTTP_429)
+├───OK─── http://localhost:8081/en/img/python/architecture.png
+├───OK─── http://localhost:8081/en/img/python/what-to-install.png
+├───OK─── https://docs.python.org/3/tutorial/modules.html
+Finished! 110 links found. 101 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/en/programming/rest.html
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/demo-activities/
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/demo-activities/snap4arduino.html
+├───OK─── https://raw.githubusercontent.com/poppy-project/pypot/master/pypot/server/snap_projects/pypot-snap-blocks.xml
+├───OK─── http://localhost:8081/en/img/activity/snap4arduino/montage.jpg
+├───OK─── http://localhost:8081/en/img/activity/snap4arduino/connect.png
+├───OK─── http://localhost:8081/en/img/activity/snap4arduino/instructions.png
+├───OK─── http://localhost:8081/en/img/activity/snap4arduino/map.png
+├───OK─── http://localhost:8081/en/img/activity/snap4arduino/instructions_avec_map.png
+├───OK─── http://blog.s4a.cat/2015/03/13/Extending-Firmata-for-Snap4Arduino.html
+Finished! 102 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/from-simulation-to-real-robot/
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/from-simulation-to-real-robot/using-jupyter.html
+├───OK─── http://localhost:8081/en/img/jupyter/root-folder.jpg
+├───OK─── http://localhost:8081/en/img/jupyter/upload-notebooks.jpg
+├───OK─── https://github.com/jupyter/jupyterhub
+├───OK─── https://pip.readthedocs.org/
+├───OK─── https://anaconda.org/poppy-project
+Finished! 101 links found. 96 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/from-simulation-to-real-robot/using-snap.html
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/software-libraries/
+Finished! 96 links found. 96 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/software-libraries/pypot.html
+├───OK─── http://poppy-project.github.io/pypot/
+Finished! 92 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/software-libraries/poppy-creature.html
+├───OK─── https://github.com/poppy-project/pypot/tree/master/pypot/creatures/abstractcreature.py
+├───OK─── https://github.com/poppy-project/pypot/blob/master/pypot/robot/robot.py
+├───OK─── https://github.com/poppy-project/pypot/tree/master/pypot/creatures
+├───OK─── https://pythonhosted.org/an_example_pypi_project/setuptools.html
+├───OK─── https://github.com/poppy-project/pypot/tree/master/pypot
+Finished! 98 links found. 93 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/software-libraries/poppy-ergo-jr.html
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/software-libraries/poppy-humanoid.html
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/software-libraries/poppy-torso.html
+Finished! 91 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/appendix/faq.html
+├───OK─── http://localhost:8081/en/img/ping.png
+├───OK─── https://www.raspberrypi.org/documentation/configuration/led_blink_warnings.md
+Finished! 97 links found. 95 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/en/appendix/contribute.html
+├───OK─── http://en.wikipedia.org/wiki/Disney_Animation:_The_Illusion_of_Life
+├───OK─── https://github.com/poppy-project/
+Finished! 93 links found. 91 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/getting-started/
+├─BROKEN─ http://www.inria.fr/equipes/flowers/ (HTTP_404)
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/ErgoJr.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/ergo_tools.gif
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/releases/ (HTTP_429)
+├───OK─── http://localhost:8081/fr/img/humanoid/vecto.png
+├───OK─── http://localhost:8081/fr/img/torso/vecto.png
+├───OK─── http://localhost:8081/fr/img/poppy-right-arm.jpg
+├─BROKEN─ https://github.com/joelortizsosa (HTTP_429)
+├───OK─── http://localhost:8081/fr/img/heol.jpg
+├───OK─── http://localhost:8081/fr/img/poppyrate.jpg
+Finished! 107 links found. 97 excluded. 3 broken.
+
+Getting links from: http://localhost:8081/fr/getting-started/connect.html
+├─BROKEN─ https://github.com/poppy-project/poppy-torso/releases (HTTP_429)
+├───OK─── http://localhost:8081/fr/img/poppy_home.png
+├───OK─── http://localhost:8081/fr/img/poppy_monitor.png
+├───OK─── http://localhost:8081/fr/img/web-logs.png
+Finished! 91 links found. 87 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/fr/getting-started/program-the-robot.html
+├───OK─── http://localhost:8081/fr/img/logo/snap.png
+├───OK─── http://localhost:8081/fr/img/snap/presentation.png
+├───OK─── http://localhost:8081/fr/img/logo/python.png
+├───OK─── http://localhost:8081/fr/img/logo/jupyter.png
+├───OK─── http://localhost:8081/fr/img/notebook-example.png
+├─BROKEN─ https://github.com/joelortizsosa/Connection-Poppy-Matlab (HTTP_429)
+Finished! 91 links found. 85 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/fr/getting-started/visualize.html
+├───OK─── http://localhost:8081/fr/img/humanoid/vrep.png
+├───OK─── http://localhost:8081/fr/img/torso/explauto-vrep.png
+├───OK─── http://localhost:8081/fr/img/torso/explauto-res.png
+├───OK─── http://localhost:8081/fr/img/visu/presentation.png
+├───OK─── http://localhost:8081/fr/img/visu/python-setup.gif
+Finished! 85 links found. 80 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/getting-started/example-of-projects.html
+├───OK─── http://localhost:8081/fr/img/cherry.png
+├─BROKEN─ https://github.com/Cherry-project (HTTP_429)
+Finished! 89 links found. 87 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/
+Finished! 77 links found. 77 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/ergo-jr/
+Finished! 79 links found. 79 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/ergo-jr/bom.html
+├─BROKEN─ https://github.com/poppy-project/pixl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/side2side.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/long_U.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/short_U.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/support_camera.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/lamp.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-fixation.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-rotative_part.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/pen-screw.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/disk_support.stl (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware/laser_cutting (HTTP_429)
+Finished! 92 links found. 81 excluded. 11 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/ergo-jr/electronic-assembly.html
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/electronic/rpi-sd.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/electronic/pixl-step_1-2.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/electronic/pixl-step_3-4-5.jpg
+Finished! 82 links found. 79 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/ergo-jr/motor-configuration.html
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/xl_320.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/IHM/webpage_not_available.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/motors.png
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/IHM/motor_config_assistant.png
+├───OK─── http://localhost:8081/fr/img/jupyter/open-terminal.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/IHM/terminal_for_configuration.PNG
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/IHM/poppy-configure-terminal-output.png
+Finished! 93 links found. 86 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/ergo-jr/mechanical-construction.html
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/ollo_rivet.png
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/ollo_rivets_size.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/ollo-tool.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/align-horn.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/horns_on_left.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_1-2.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_3-4.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_5-6.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_7-8.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_9-10.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_11-12-13.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_14-16-17.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_18-19.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/pen_holder.jpg
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/blob/master/hardware/STL/tools/gripper-fixation.stl (HTTP_429)
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/grip1.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/grip2.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_21-22.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/camera.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/steps/step_24.jpg
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/IHM/start_api.png
+├───OK─── http://localhost:8081/fr/programming
+├───OK─── http://localhost:8081/fr/assembly-guides/ergo-jr/img/assembly/ergo-tool-2.jpg
+Finished! 100 links found. 77 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/poppy-humanoid/
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-humanoid
+├───OK─── https://github.com/poppy-project/poppy-docs#how-to-contribute
+Finished! 76 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/assembly-guides/poppy-torso/
+├───OK─── http://localhost:8081/en/assembly-guides/poppy-torso
+Finished! 76 links found. 75 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/installation/
+Finished! 84 links found. 84 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/installation/install-zeroconf.html
+Finished! 79 links found. 79 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/installation/burn-an-image-file.html
+├─BROKEN─ https://github.com/poppy-project/poppy-ergo-jr/releases/ (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-torso/releases (HTTP_429)
+├───OK─── http://localhost:8081/fr/installation/img/etcher.gif
+Finished! 85 links found. 82 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/fr/installation/install-poppy-softwares.html
+Finished! 76 links found. 76 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/installation/install-vrep.html
+├───OK─── http://localhost:8081/fr/img/vrep/vrep2.png
+├───OK─── http://localhost:8081/fr/img/vrep/lucvincent/luc_vincent-056.png
+├───OK─── http://localhost:8081/fr/img/vrep/lucvincent/luc_vincent-059.png
+├───OK─── http://localhost:8081/fr/img/vrep/lucvincent/luc_vincent-060.png
+├───OK─── http://localhost:8081/fr/img/vrep/vrep3_1.png
+├───OK─── http://localhost:8081/fr/img/vrep/vrep3_2.png
+├───OK─── http://localhost:8081/fr/img/vrep/vrep4.png
+├───OK─── http://localhost:8081/fr/img/vrep/lucvincent/luc_vincent-070.jpg
+Finished! 86 links found. 78 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/installation/install-drivers.html
+Finished! 78 links found. 78 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/installation/install-a-poppy-board.html
+├─BROKEN─ https://www.raspberrypi.org/downloads/raspbian/ (HTTP_404)
+Finished! 87 links found. 86 excluded. 1 broken.
+
+Getting links from: http://localhost:8081/fr/programming/
+Finished! 79 links found. 79 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/programming/snap.html
+├───OK─── http://localhost:8081/fr/assembly-guides
+├───OK─── http://localhost:8081/fr/img/snap/snap_save.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_cloud_1.png
+├───OK─── http://localhost:8081/fr/img/snap/dialog-cloud-signup.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_login1.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_login2.png
+├───OK─── http://localhost:8081/fr/img/snap/logout-menu.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_open.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_cloud_3.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_cloud_4.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_cloud_5.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_share_full_screen.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_xml_save_as.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_import.png
+├───OK─── http://localhost:8081/fr/img/snap/find_blocks.png
+├───OK─── http://localhost:8081/fr/img/snap/find_blocks2.png
+├───OK─── http://localhost:8081/fr/img/snap/test_connection.png
+├───OK─── http://localhost:8081/fr/img/snap/test_connection3.png
+├───OK─── https://www.poppy-education.org/wp-content/uploads/2020/08/Apprendre-a-programmer-Poppy-Ergo-Jr-en-Snap.pdf
+├───OK─── https://www.poppy-education.org/activites/initiation-ergo-jr-et-snap/
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/test_connection.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/set_motors_compliant.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/set_position.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/set_led.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/play_move_reporter.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/sequence.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/concurrent.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/create_and_start_record.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/stop_record_and_save_move.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/stop_move.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/play_concurently_moves.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/play_sequentially_moves.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/start_behaviours.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/play_move_in_reverse.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/play_move_command.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/motors_in_group.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/all_motors.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/get_all_motors_position.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/index_of_motor.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/all_recorded_moves.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/get_all_behaviours.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/get_all_motors.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/get_function_of_behaviour.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/card_is_detected.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/robot_URL.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/reset.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/set_register_of_motor.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/get_register.png
+├───OK─── http://localhost:8081/fr/img/snap/snap_blocks/set_host.png
+Finished! 130 links found. 81 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/programming/notebooks.html
+├───OK─── http://localhost:8081/fr/img/python/notebook-example.png
+├─BROKEN─ https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-humanoid_poppy-torso__vrep_installation%20et%20prise%20en%20main/poppy%20simul%C3%A9/Ergo_simulation%20prise%20en%20main.ipynb (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/community-notebooks/blob/master/tutorials-education/poppy-humanoid_poppy-torso__vrep_installation%20et%20prise%20en%20main/poppy%20simul%C3%A9/Ergo_simulation%20prise%20en%20main.ipynb (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/community-notebooks/blob/master/demo/poppy-humanoid_Accessing%20pypot%20REST%20API%20through%20HTTP%20requests.ipynb (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid/blob/dd469c262ede0877153afd6e086f65fc85e8b729/software/samples/notebooks/Demo%20Interface.ipynb (HTTP_429)
+Finished! 95 links found. 90 excluded. 4 broken.
+
+Getting links from: http://localhost:8081/fr/programming/python.html
+├───OK─── http://localhost:8081/fr/img/python/powered.png
+├─BROKEN─ https://github.com/poppy-project/pypot (HTTP_429)
+├─BROKEN─ https://github.com/poppy-project/poppy-humanoid (HTTP_429)
+├───OK─── http://localhost:8081/fr/img/python/architecture.png
+├───OK─── http://localhost:8081/fr/img/python/what-to-install.png
+Finished! 92 links found. 87 excluded. 2 broken.
+
+Getting links from: http://localhost:8081/fr/programming/rest.html
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/demo-activities/
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/demo-activities/snap4arduino.html
+├───OK─── http://localhost:8081/fr/img/activity/snap4arduino/montage.jpg
+├───OK─── http://localhost:8081/fr/img/activity/snap4arduino/connect.png
+├───OK─── http://localhost:8081/fr/img/activity/snap4arduino/instructions.png
+├───OK─── http://localhost:8081/fr/img/activity/snap4arduino/map.png
+├───OK─── http://localhost:8081/fr/img/activity/snap4arduino/instructions_avec_map.png
+Finished! 85 links found. 80 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/from-simulation-to-real-robot/
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/from-simulation-to-real-robot/using-jupyter.html
+├───OK─── http://localhost:8081/fr/img/jupyter/root-folder.jpg
+├───OK─── http://localhost:8081/fr/img/jupyter/upload-notebooks.jpg
+├───OK─── http://localhost:8081/fr/img/jupyter/terminal.jpg
+Finished! 84 links found. 81 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/from-simulation-to-real-robot/using-snap.html
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/software-libraries/
+Finished! 79 links found. 79 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/software-libraries/pypot.html
+Finished! 75 links found. 75 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/software-libraries/poppy-creature.html
+Finished! 81 links found. 81 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/software-libraries/poppy-ergo-jr.html
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/software-libraries/poppy-humanoid.html
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/software-libraries/poppy-torso.html
+Finished! 74 links found. 74 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/appendix/faq.html
+├───OK─── http://localhost:8081/fr/img/ping.png
+Finished! 80 links found. 79 excluded. 0 broken.
+
+Getting links from: http://localhost:8081/fr/appendix/contribute.html
+Finished! 76 links found. 76 excluded. 0 broken.
+
+Finished! 9099 links found. 8361 excluded. 80 broken.
+Elapsed time: 54 seconds
